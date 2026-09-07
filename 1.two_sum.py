@@ -1,0 +1,12 @@
+# Leetcode-1 Two sum 
+class Solution(object):
+    def twoSum(self, nums, target):
+        seen={}
+        for i in range(len(nums)):
+            num=nums[i]
+            needed=target-num
+            if needed in seen:
+                return [seen[needed],i]
+            else:
+                seen[num]=i
+        
