@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/sathwika-2006/dsa-leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sathwika-2006/dsa-leetcode-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sathwika-2006/dsa-leetcode-python/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/sathwika-2006/dsa-leetcode-python/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sathwika-2006/dsa-leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sathwika-2006/dsa-leetcode-python/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/sathwika-2006/dsa-leetcode-python/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
